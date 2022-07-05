@@ -1,0 +1,2 @@
+class Hammer < Weapon
+end
